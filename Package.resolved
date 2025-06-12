@@ -50,8 +50,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/lishuailibertine/web3swift",
       "state" : {
-        "revision" : "7063ca4b7151f7b4448de96740a8ae98fd60a70b",
-        "version" : "1.0.0"
+        "revision" : "0a67300907039c9104d1404b8be226750794ac4e",
+        "version" : "2.0.1"
       }
     }
   ],
